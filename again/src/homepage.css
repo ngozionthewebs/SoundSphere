@@ -9,7 +9,7 @@
 
 .home{
     background: #000;
-    padding-top: 90px;
+    padding-top: 60px;
     height: 1000px;
     
 }
@@ -17,7 +17,8 @@
 
 .heading{
     font-size: 126px;
-    margin-left: 20px;
+    margin-left: 50px;
+  
     
 }
 .subtext{
@@ -25,4 +26,19 @@
     margin-top: -150px;
     margin-right: 50px;
     
+}
+
+.dash-image{
+    width: 1336px;
+    height: 386px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border-radius: 21px;
+    background-image: url(./assets/gradients.png);
+    background-position: center;
+    background-size: cover;
+    font-size: 96px;
+    padding-left: 36px;
+    padding-top: 227px;
+
 }

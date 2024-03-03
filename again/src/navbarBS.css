@@ -18,7 +18,14 @@ nav{
 }
 
 .logo{
-    padding-left: 20px;
+    margin-left: 30px;
+    margin-top: 19px;
+    width: 164px;
+    height: 162px;
+    /*background-color: red;*/
+    background-image: url(./assets/logo.svg);
+
+
 }
 
 .links{

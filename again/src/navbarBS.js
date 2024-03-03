@@ -22,7 +22,7 @@ import './navbarBS.css'
 const SoundNavBar = () => {
   return (  
     <nav className="navbar">
-      <div className="logo"><h1>SoundSphere Image</h1></div>
+      <div className="logo"></div>
       <div className="links">
         <a href="/" >Home</a>
         <a href="/">Comparison</a>

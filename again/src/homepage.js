@@ -12,8 +12,11 @@ const Homepage = () => {
                 <div className="subtext">This web app allows users <br/> to compare music based on <br/> specific properties. <br/> What Genre are you? <br/> lets find out :)   </div>
             </div>
 
-
+            <div className="dashboard">
+                <div className="dash-image">DASHBOARD</div>
+            </div>
         </div>
+        
      );
 }
  
