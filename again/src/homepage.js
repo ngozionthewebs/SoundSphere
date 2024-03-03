@@ -14,6 +14,29 @@ const Homepage = () => {
 
             <div className="dashboard">
                 <div className="dash-image">DASHBOARD</div>
+
+                <div className="track">Get your top 5 tracks
+                <div className="sound"></div>
+                </div>
+
+                <div className="listen-now">Listen Now
+                <div className="play"></div>
+                
+                </div>
+
+                <div className="rec"> Recommendations
+                    <div className="music"></div>
+                </div>
+
+                <div className="hot">Hottest Right Now
+                    <div className="line"></div>
+                </div>
+
+                <div className="podcast">Podcast <br/> Data
+                <div className="mic"></div>
+
+                </div>
+
             </div>
         </div>
         
