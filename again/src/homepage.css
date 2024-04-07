@@ -11,7 +11,7 @@
 .home{
     background: #000;
     padding-top: 60px;
-    height: 1900px;
+    height: 100%;
     
 }
 
@@ -157,7 +157,7 @@
     background-color: #F5BB4C;
 }
 
-.line{
+.linegr{
     width: 281x;
     height: 212px;
     background-image: url(./assets/line.svg);
@@ -195,5 +195,131 @@
     background-image: url(./assets/mic.svg);
     margin-left: 450px;
     margin-top: 30px;
+}
+
+
+/* Comparison Page Ex*/
+
+.block-one{
+    width: 649px;
+    height: 1905px;
+    border-radius: 21px;
+    border: 1px solid #FFF;
+    margin-top: 130px;
+    margin-left: 50px;
+
+}
+
+.block-two{
+    width: 649px;
+    height: 1905px;
+    border-radius: 21px;
+    border: 1px solid #FFF;
+    margin-left: 750px;
+    margin-top: -1910px;
+
+
+}
+
+/*search form*/
+
+.search{
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+
+.info-search{
+    color: #FFF;
+    font-family: "Space Mono";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+
+
+}
+
+form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 436px;
+    height: 65px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #FFF;
+    background-color:#000 ;
+  }
+  
+  button {
+    margin-right: 30px;
+    padding: 10px 20px;
+
+    background-color: #F5BB4C;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    
+  }
+  
+  button:hover {
+    background-color: #E55937;
+  }
+  
+
+/*image and stats*/
+
+.stats{
+    padding-left: 20px;
+}
+
+.artist-image{
+    width: 436px;
+    height: 395px;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background-image: url(./assets/placeholder1.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bar{
+    width: 569px;
+    height: 385px;
+    background: #1E1E1E;
+    border-radius: 20px;
+    margin-top: 30px;
+    
+}
+
+.pie{
+    width: 569px;
+    height: 385px;
+    background: #1E1E1E;
+    border-radius: 20px;
+    margin-top: 30px;  
+}
+
+.radar{
+    width: 569px;
+    height: 385px;
+    background: #1E1E1E;
+    border-radius: 20px;
+    margin-top: 30px;  
+}
+
+.line{
+    width: 1345px;
+    height: 532px;
+    border-radius: 20px;
+    background: #1E1E1E;
+    margin-top: 70px;
+    margin-left: 58px;
+    padding-left: 50px;
+    padding: 20px, 20px;
+
 }
 

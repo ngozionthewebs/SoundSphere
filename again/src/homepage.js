@@ -29,7 +29,7 @@ const Homepage = () => {
                 </div>
 
                 <div className="hot">Hottest Right Now
-                    <div className="line"></div>
+                    <div className="linegr"></div>
                 </div>
 
                 <div className="podcast">Podcast <br/> Data
