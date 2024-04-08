@@ -23,7 +23,7 @@ function App() {
               <Comparison accessToken={accessToken} />
             </Route>
             <Route path="/timeline">
-              <Timeline />
+              <Timeline accessToken={accessToken}/>
             </Route>
           </Switch>
         </div>

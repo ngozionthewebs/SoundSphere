@@ -108,6 +108,7 @@ const Comparison = ({ accessToken }) => { // Receive the accessToken as a prop
 
         </div>
       </div>
+      <div className="footer" style={{marginTop: '43px'}}></div>
     </div>
   );
 };
